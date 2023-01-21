@@ -272,7 +272,13 @@ footer p {
     border-bottom:1px solid #E0E0E0;
 }
 .works_feature {
-    padding-bottom: 66px;
+    padding-bottom: 83px;
     padding-top: 31px;
     border-bottom:1px solid #E0E0E0;
+}
+.blog_item{
+    padding-top: 90px;
+    padding-bottom: 53px;
+    max-width: 682px;
+    margin: auto;
 }
